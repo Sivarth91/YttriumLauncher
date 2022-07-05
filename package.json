@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "Yttrium Launcher",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Yttrium Launcher",
+  "description": "Modded Minecraft Launcher for Yttrium Minecraft server",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) & Sivarth (https://github.com/Sivarth91/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
