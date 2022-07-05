@@ -1,3 +1,5 @@
+@import 'launcher.css';
+
 /* Styles for dimmer login span. */
 .loginSpanDim {
     font-size: 12px;
@@ -126,7 +128,7 @@
 
 /* Header on login view. */
 #loginSubheader {
-    font-family: 'Avenir Medium';
+    font-family: 'Work Sans', sans-serif;
     margin-bottom: 25px;
     font-size: 12px;
     letter-spacing: 1px;
@@ -151,7 +153,7 @@
 
 /* Span which displays errors related to login field content. */
 .loginErrorSpan {
-    font-family: 'Avenir Medium';
+    font-family: 'Work Sans', sans-serif;
     font-weight: bold;
     font-size: 8px;
     color: #ff1b0c;
@@ -187,7 +189,7 @@
 
 /* Login text input styles. */
 .loginField {
-    font-family: 'Avenir Book';
+    font-family: 'Work Sans', sans-serif;
     background: none;
     border-width: 1.5px 0px 0px 0px;
     border-style: solid;
@@ -406,11 +408,19 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 15px;
 }
 
 /* Add spacing between register anchor and disclaimer. */
 #loginRegisterSpan {
     margin-bottom: 5px;
+}
+
+#loginRegisterSpan a {
+    color: #F8C290;
 }
 
 /* Disclaimer text styles. */
