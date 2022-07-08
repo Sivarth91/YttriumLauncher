@@ -128,7 +128,7 @@
 
 /* Header on login view. */
 #loginSubheader {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-bottom: 25px;
     font-size: 12px;
     letter-spacing: 1px;
@@ -153,7 +153,7 @@
 
 /* Span which displays errors related to login field content. */
 .loginErrorSpan {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: bold;
     font-size: 8px;
     color: #ff1b0c;
@@ -189,7 +189,7 @@
 
 /* Login text input styles. */
 .loginField {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background: none;
     border-width: 1.5px 0px 0px 0px;
     border-style: solid;
